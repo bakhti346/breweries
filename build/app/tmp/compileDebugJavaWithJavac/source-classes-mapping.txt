@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/breweries/breweries_app/BuildConfig.java
+ com.breweries.breweries_app.BuildConfig

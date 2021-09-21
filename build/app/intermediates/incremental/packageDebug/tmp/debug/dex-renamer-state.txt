@@ -1,0 +1,4 @@
+#Tue Sep 21 17:41:49 PKT 2021
+base.0=/Users/sheikhmasood/AndroidStudioProjects/breweries_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
